@@ -1,0 +1,15 @@
+{
+  "name": "lorem_ipsum_daily_proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J. Hunt",
+  "license": "ISC",
+  "dependencies": {
+    "expres": "0.0.5",
+    "lorem-ipsum": "^1.0.4"
+  }
+}
